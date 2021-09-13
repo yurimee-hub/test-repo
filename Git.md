@@ -23,3 +23,4 @@ master branch -> 핵심
 git branch 브랜치명 -> 브랜치 생성
 git branch -> 프로젝트에서 관리하고 있는 브랜치
 git checkout 브랜치명 -> 해당 브랜치로 이동
+
