@@ -26,3 +26,8 @@ git checkout 브랜치명 -> 해당 브랜치로 이동
 git branch -d 브랜치명 -> 브랜치 삭제, 작업 중인 브랜치에서는 X 이동
 git checkout -b 브랜치명 -> 브랜치 생성하고 이동
 
+5. 버전 되돌리기
+git reset --hard HEAD~
+-> 바로 전 버전으로 이동 3->2
+git reset --hard ORIG_HEAD
+-> 되돌린 것을 다시 되돌림 2->3
