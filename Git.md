@@ -10,4 +10,9 @@ git config --global core.autocrlf input
 3. 버전 생성
 git init
 git status // 작업내역 확인
-git add .
+git add . // Untracked files 전체
+git add 파일명
+-> committed~~~
+git commit -m '내용
+git log // 업로드된 파일 + 메시지 확인
+
